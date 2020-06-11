@@ -1,0 +1,9 @@
+D:\CCPA\C#\MCQ\MCQ\bin\Debug\MCQ.exe
+D:\CCPA\C#\MCQ\MCQ\bin\Debug\MCQ.pdb
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.Form1.resources
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.Properties.Resources.resources
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.csproj.GenerateResource.Cache
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.exe
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.pdb
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.csprojResolveAssemblyReference.cache
+D:\CCPA\C#\MCQ\MCQ\obj\x86\Debug\MCQ.Form2.resources
